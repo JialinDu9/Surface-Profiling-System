@@ -21,4 +21,4 @@ These notebooks are designed to be used in conjunction with the lab reports, whi
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/JialinDu9/Surface-Profiling-System.git
+https://github.com/JialinDu9/Surface-Profiling-System.git
